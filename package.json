@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "cli-color": "^1.0.0"
+  }
+}
